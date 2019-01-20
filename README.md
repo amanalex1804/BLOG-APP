@@ -1,3 +1,2 @@
 # BLOG-APP
-
-** INTRODUCTION **
+## INTRODUCTION ##
